@@ -1,0 +1,13 @@
+{
+  "name": "FooBar",
+  "description": "A demo project.",
+  "require": {
+    "technosophos/fortissimo": "2.*"
+  },
+  "repositories": [
+    {
+      "type":"vcs",
+      "url": "https://github.com/technosophos/Fortissimo"
+    }
+  ]
+}
